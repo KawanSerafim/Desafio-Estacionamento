@@ -36,3 +36,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Extra
+
+**Condições para a placa:** A minha solução consistiu em desenvolver, antes da adição da placa, um padrão obrigatório, que funcionaria como uma função adicional ao desafio. Para alcançar isso, empreguei um método da classe String conhecido como "Length" para determinar uma condição baseada no número de caracteres da placa. Em seguida, utilizei a classe Regex em conjunto com uma variável que estabeleceu o padrão de formatação da placa, impondo, assim, requisitos específicos ao usuário. Quando essas condições foram satisfeitas, o veículo foi incluído na lista.
